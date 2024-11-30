@@ -140,7 +140,15 @@ Finally create the final load balancer to allow internet traffic:
 ```
 kubectl apply -f full_stack_lb.yaml
 ```
+![Example Image](screenshots/1.JPG)
 
+
+![Example Image](screenshots/3.JPG)
+
+
+![Example Image](screenshots/4.JPG)
+
+![Example Image](screenshots/5.JPG)
 
 # Any issue with the pods ? check logs:
 ```
@@ -169,6 +177,15 @@ Password: prom-operator
 Import Dashboard ID: 1860
 
 Exlore more at: https://grafana.com/grafana/dashboards/
+
+![Example Image](screenshots/7.JPG)
+
+
+![Example Image](screenshots/8.JPG)   
+
+
+![Example Image](screenshots/9.JPG)
+
 
 # Destroy Kubernetes resources and cluster
 ```
