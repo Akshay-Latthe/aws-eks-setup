@@ -1,4 +1,4 @@
-# three-tier-eks-iac
+# EKS-iac-with-3Tire-app
 
 # Prerequisite 
 
