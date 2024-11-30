@@ -1,4 +1,4 @@
-# EKS-iac-with-3Tire-app
+# EKS-iac-3Tire-app_&_monitoring  
 
 # Prerequisite 
 
